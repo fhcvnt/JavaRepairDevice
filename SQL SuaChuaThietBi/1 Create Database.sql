@@ -1,0 +1,4 @@
+CREATE DATABASE SuaChuaThietBi
+GO 
+USE SuaChuaThietBi
+GO
